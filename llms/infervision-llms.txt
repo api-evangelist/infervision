@@ -1,0 +1,20 @@
+# Infervision
+
+> Infervision is a medical artificial intelligence company that builds AI-powered medical imaging and clinical decision-support software for hospitals and healthcare providers. Its InferRead diagnostic suite and InferOperate surgical-planning suite assist radiologists and surgeons across CT/DR reading, triage, and 3D reconstruction. The company holds FDA 510(k) clearance for InferRead CT Lung and operates across 30+ countries. No public developer API is currently published.
+
+## Company
+- [Website](https://global.infervision.com): Corporate site and product overview.
+- [Privacy Policy](https://global.infervision.com/policy): Privacy Policy, Service Regulation (terms), and Cookie Policy.
+- [Contact / Demo](https://global.infervision.com/contacts): Demo booking and contact channel (contactus@infervision.com).
+
+## Products
+- InferRead: Diagnostic AI for CT Lung, DR Chest, CT Coronary, CT Stroke, CT Bone, and CT Pneumonia.
+- InferOperate: 3D reconstruction and surgical planning for thoracic, liver, and urological procedures.
+- InferCare: Patient management and image follow-up.
+- InferScholar: AI-enabled medical research platform.
+- InferMatrix: AI-enabled medical application platform.
+
+## Notes
+- This profile is maintained by the API Evangelist network (https://apievangelist.com).
+- Infervision is tracked as a portfolio company of Qiming Venture Partners.
+- No OpenAPI, SDK, MCP server, or public developer portal was found at enrichment time.

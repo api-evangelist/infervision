@@ -1,7 +1,30 @@
 aid: infervision
-name: infervision
-description: infervision is a company surfaced as a portfolio company of qiming and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/infervision.png
+name: Infervision
+description: >-
+  Infervision is a medical artificial intelligence company that builds AI-powered
+  medical imaging and clinical decision-support software for hospitals and healthcare
+  providers. Its InferRead diagnostic suite assists radiologists with CT and DR
+  reading across lung nodule detection, chest abnormality detection, coronary artery
+  stenosis, stroke and hemorrhage triage, rib fracture identification, and pneumonia
+  triage, while the InferOperate suite provides 3D reconstruction for thoracic, liver,
+  and urological surgical planning. Additional platforms include InferCare for patient
+  management and image follow-up, InferScholar for AI-enabled medical research, and
+  the InferMatrix medical application platform. The company holds FDA 510(k) clearance
+  for InferRead CT Lung, has filed 380+ patents and published 330+ peer-reviewed
+  papers, and operates across 30+ countries. Infervision was surfaced through the
+  API Evangelist network as a portfolio company of Qiming Venture Partners.
 url: https://raw.githubusercontent.com/api-evangelist/infervision/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +34,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Artificial Intelligence
+- Medical Imaging
+- Healthcare
+- Radiology
+- Diagnostics
+- Medical Devices
+- Clinical Decision Support
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,4 +52,19 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://infervision.com
+  url: https://global.infervision.com
+- type: PrivacyPolicy
+  url: https://global.infervision.com/policy
+- type: TermsOfService
+  url: https://global.infervision.com/policy
+- type: Support
+  url: https://global.infervision.com/contacts
+- type: DomainSecurity
+  url: security/infervision-domain-security.yml
+- type: LLMsTxt
+  url: llms/infervision-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
